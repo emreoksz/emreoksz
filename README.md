@@ -1,3 +1,4 @@
+<h2 align="left">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
 ### Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://linkedin.com/in/emreoksuz">
   <img align="left" alt="Emre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -18,8 +19,11 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 🔭 I' currently working on **Data Science**
+
 - 🌱 I’m currently learning **Data Science, Machine Learning**
+
 - 💬 Ask me about **Data Science, Machine Learning, Python**
+
 - 📫 How to reach me **emre_oksuz@outlook.com.tr**
 
 **Languages and Tools:** 
@@ -63,7 +67,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-ta
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
 
-<h1 align="left">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h2 align="left">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
 <h3 align="left">Econometrics | Data Science and Machine Learning Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
