@@ -84,6 +84,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+</p>
+
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
