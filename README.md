@@ -1,5 +1,4 @@
 <h2 align="left">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
-### Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://linkedin.com/in/emreoksuz">
   <img align="left" alt="Emre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
