@@ -17,10 +17,13 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 🔭 I’m currently working on **Data Science**
+
+- 🌱 I’m currently learning **Data Science, Machine Learning**
+
+- 💬 Ask me about **Data Science, Machine Learning, Python**
+
+- 📫 How to reach me **emre_oksuz@outlook.com.tr**
 
 **Languages and Tools:**  
 
@@ -58,6 +61,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 📈 My GitHub Stats
 
