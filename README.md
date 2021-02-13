@@ -1,5 +1,5 @@
-<h2 align="left">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
-<a href="https://linkedin.com/in/emreoksuz">
+<h2 align="left">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h4 align="left">Connect with me:</h4><a href="https://linkedin.com/in/emreoksuz">
   <img align="left" alt="Emre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/emreoksuz">
