@@ -80,7 +80,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://kaggle.com/https://www.kaggle.com/emreoksuz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/emreoksuz" height="30" width="40" /></a>
 <a href="https://medium.com/@emreoksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emreoksuz" height="30" width="40" /></a>
 
-<br />
+</p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
