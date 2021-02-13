@@ -99,6 +99,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreoksz&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreoksz" /></p>
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emreoksz&show_icons=true&theme=gotham" alt="emreoksz" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreoksz&show_icons=true&theme=dark&locale=en" alt="emreoksz" /></p>
 
 
