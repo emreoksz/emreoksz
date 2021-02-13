@@ -81,6 +81,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://medium.com/@emreoksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emreoksuz" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz" /> </p>
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **Data Science**
