@@ -72,6 +72,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <h1 align="center">Hey there, I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">Econometrics</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/emreoksuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="www.linkedin.com/in/emreoksuz" height="30" width="40" /></a>
@@ -81,7 +83,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz")
 
 <br />
 
