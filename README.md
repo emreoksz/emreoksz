@@ -92,11 +92,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 - 📫 How to reach me **emre_oksuz@outlook.com.tr**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/emreoksuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="www.linkedin.com/in/emreoksuz" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/emreoksuz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/emreoksuz" height="30" width="40" /></a>
-<a href="https://medium.com/@emreoksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emreoksuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
