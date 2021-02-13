@@ -17,12 +17,9 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 🔭 I’m currently working on **Data Science**
-
+- 🔭 I' currently working on **Data Science**
 - 🌱 I’m currently learning **Data Science, Machine Learning**
-
 - 💬 Ask me about **Data Science, Machine Learning, Python**
-
 - 📫 How to reach me **emre_oksuz@outlook.com.tr**
 
 **Languages and Tools:** 
