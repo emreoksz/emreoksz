@@ -83,7 +83,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz")
+![](https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat)
 
 <br />
 
