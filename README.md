@@ -17,7 +17,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 🔭 I' currently working on **Data Science**
+- 🔭 I'm currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
