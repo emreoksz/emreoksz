@@ -70,5 +70,31 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz" /> </p>
+
+- 🔭 I’m currently working on **Data Science**
+
+- 🌱 I’m currently learning **Data Science, Machine Learning**
+
+- 💬 Ask me about **Data Science, Machine Learning, Python**
+
+- 📫 How to reach me **emre_oksuz@outlook.com.tr**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/emreoksuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="www.linkedin.com/in/emreoksuz" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/emreoksuz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/emreoksuz" height="30" width="40" /></a>
+<a href="https://medium.com/@emreoksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emreoksuz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreoksz&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreoksz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreoksz&show_icons=true&theme=dark&locale=en" alt="emreoksz" /></p>
 
 
