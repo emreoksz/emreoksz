@@ -81,13 +81,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://medium.com/@emreoksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emreoksuz" height="30" width="40" />
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
-![](https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat)
-
-<br />
-
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz" /></a>
 
 <br />>
 
