@@ -74,11 +74,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/emreoksuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="www.linkedin.com/in/emreoksuz" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/emreoksuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="www.linkedin.com/in/emreoksuz" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/emreoksuz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/emreoksuz" height="30" width="40" /></a>
 <a href="https://medium.com/@emreoksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emreoksuz" height="30" width="40" /></a>
 </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreoksz&label=Profile%20views&color=0e75b6&style=flat" alt="emreoksz" /> </p>
 
