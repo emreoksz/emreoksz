@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Python**
 
-- 📫 How to reach me **emre_oksuz@outlook.com.tr**
+- 📫 How to reach me **emre.oksuz@outlook.com.tr**
 
 **Languages and Tools:** 
 
