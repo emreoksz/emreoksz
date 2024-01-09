@@ -9,7 +9,7 @@
   <img align="left" alt="Emre's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=emreoksz.emreoksz)
+![](https://komarev.com/ghpvc/?username=emreoksz&style=flat-square)
 
 <br />
 
